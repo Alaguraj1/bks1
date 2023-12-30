@@ -22,20 +22,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/quality-practices": [
+    "/infrastructure": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/quality-practices.js"
+      "static/chunks/pages/infrastructure.js"
     ],
     "/research-develeopment": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/research-develeopment.js"
-    ],
-    "/why-bks": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/why-bks.js"
     ]
   },
   "ampFirstPages": []
