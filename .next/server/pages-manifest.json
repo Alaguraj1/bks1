@@ -2,6 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/research-develeopment": "pages/research-develeopment.js",
-  "/why-bks": "pages/why-bks.js"
+  "/why-bks": "pages/why-bks.js",
+  "/quality-practices": "pages/quality-practices.js",
+  "/research-develeopment": "pages/research-develeopment.js"
 }
